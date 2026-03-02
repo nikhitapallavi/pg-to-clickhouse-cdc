@@ -1,0 +1,13 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.log
+*.tar.gz
+/tmp/
+
+logs/
+kafka-logs/
+zookeeper-data/
+*.pid
+
