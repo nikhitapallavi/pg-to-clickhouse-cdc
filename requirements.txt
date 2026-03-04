@@ -1,0 +1,9 @@
+clickhouse-driver==0.2.10
+kafka-python==2.3.0
+markdown-it-py==4.0.0
+mdurl==0.1.2
+psycopg2-binary==2.9.11
+Pygments==2.19.2
+pytz==2025.2
+rich==14.3.2
+tzlocal==5.3.1
